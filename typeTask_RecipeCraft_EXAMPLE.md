@@ -9,6 +9,7 @@
 | Поле              | Тип        |  Описание |
 |-------------------|------------|----------|
 | `taskParamNumber`      | `float array`   | Сколько раз нужно выполнить крафт для того чтобы задание засчиталось. |
+| `taskParamText` | `string array`   | Класснейм предмета который будет указан как превью в плашке задания. В том же месте где и картинка задания **iconTask** |
 
 ---
 ### 1. Добавить основной конфиг задания в config_TasksList.json. Описание параметров смотрите в [config_TasksList.json](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_TasksList.md)
