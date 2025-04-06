@@ -27,7 +27,7 @@
 | `levelNumber`          | `int`  | Номер уровня |
 | `needPoints`          | `string`  | Сколько нужно очков у игрока для открытия уровня |
 | `freeItemID`          | `int`  | ID бесплатного предмета из конфига config_ItemsList.json который будет наградой при достижение уровня |
-| `premiumItemID`          | `int`  | ID преумного предмета из конфига config_ItemsList.json который будет наградой при достижение уровня |
+| `premiumItemID`          | `int`  | ID премиумного предмета из конфига config_ItemsList.json который будет наградой при достижение уровня |
 
 ---
 
