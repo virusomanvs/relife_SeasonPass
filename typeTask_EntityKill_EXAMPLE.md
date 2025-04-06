@@ -12,7 +12,7 @@
 | `taskParamText` | `string array`   | Класснейм предмета который будет указан как превью в плашке задания. В том же месте где и картинка задания **iconTask** |
 
 ---
-## 1. Добавить основной конфиг задания в config_TasksList.json. Описание параметров смотрите в [config_TasksList.json](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_TasksList.md)
+### 1. Добавить основной конфиг задания в config_TasksList.json. Описание параметров смотрите в [config_TasksList.json](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_TasksList.md)
 
 ```json
 {
@@ -30,7 +30,7 @@
     ]
 }
 ```
-## 2. Так как это задание на убийство необходимо указать дополнительные параметры в config_KillEntityTasksList.json. Описание параметров смотрите в [config_KillEntityTasksList.json](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_KillEntityTasksList.md). taskID указываем такое же как и в основном конфиге, чтобы связать параметры задания с самим заданием.
+### 2. Так как это задание на убийство необходимо указать дополнительные параметры в config_KillEntityTasksList.json. Описание параметров смотрите в [config_KillEntityTasksList.json](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_KillEntityTasksList.md). taskID указываем такой же как и в основном конфиге, чтобы связать параметры задания с самим заданием.
 
 ```json
 {
