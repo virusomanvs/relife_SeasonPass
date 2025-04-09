@@ -4,17 +4,14 @@
 Конфиг предназначен для указания параметров при использовании карточек, чтобы добавить опыт, установить уровень или добавить несколько уровней. 
 Вы можете указать и свои класснеймы, главное чтобы предмет выполнял действие ActionActivateSeasonCard. В моде есть несколько разноцветных карточек 
 
-RLF_BattlePass_Points_Iron
-
-RLF_BattlePass_Points_Silver
-
-RLF_BattlePass_Points_Purple
-
-RLF_BattlePass_Points_Green
-
-RLF_BattlePass_Points_Red
-
-RLF_BattlePass_Points_Blue
+| Название предмета | Изображение                              |
+|-------------------|------------------------------------------|
+| RLF_BattlePass_Points_Iron | ![image](https://github.com/user-attachments/assets/ec28465f-ed90-4b0f-b458-1a682734f173)| 
+| RLF_BattlePass_Points_Silver        | ![image](https://github.com/user-attachments/assets/739e9c90-1497-4ea3-8d13-7ef634a15bbb) |
+| RLF_BattlePass_Points_Purple     |  ![image](https://github.com/user-attachments/assets/1e5a2224-2e0d-4902-bef6-ae93e6f80142) | 
+| RLF_BattlePass_Points_Green     |  ![image](https://github.com/user-attachments/assets/ecf4851d-26b8-410d-9f64-0401ca1e535e)  | 
+| RLF_BattlePass_Points_Red     |  ![image](https://github.com/user-attachments/assets/29915333-5e8a-48fc-a52c-65df7b2785c8)  | 
+| RLF_BattlePass_Points_Blue     |  ![image](https://github.com/user-attachments/assets/18e433e6-513c-44f6-bb65-51f4c127abc6)  | 
 
 ---
 
