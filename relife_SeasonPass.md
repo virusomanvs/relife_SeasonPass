@@ -26,3 +26,5 @@
   "premium": false
 }
 ```
+---
+## Видео с описанием параметров https://youtu.be/C14T219gq-M
