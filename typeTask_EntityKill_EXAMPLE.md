@@ -26,10 +26,12 @@
         1.0
     ],
     "taskParamText": [
-        "Animal_BosTaurusF_Brown"
     ]
 }
 ```
+Путь к изображению можно оставить в виде заглушки, можно указать свой, а можно выбрать из заготовленных в моде в формате relife_SeasonPass/images/task_icons/animals/выбранная картинка ниже.edds укажите только имя файла, без расширения. К примеру:  relife_SeasonPass/images/task_icons/animals/bear.edds
+![image](https://github.com/user-attachments/assets/053700ae-b134-4054-ac17-e3df3778b1aa)
+
 ### 2. Так как это задание на убийство необходимо указать дополнительные параметры в config_KillEntityTasksList.json. Описание параметров смотрите в [config_KillEntityTasksList.json](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_KillEntityTasksList.md). taskID указываем такой же как и в основном конфиге, чтобы связать параметры задания с самим заданием.
 
 ```json
