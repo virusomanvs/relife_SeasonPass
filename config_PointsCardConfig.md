@@ -5,10 +5,15 @@
 Вы можете указать и свои класснеймы, главное чтобы предмет выполнял действие ActionActivateSeasonCard. В моде есть несколько разноцветных карточек 
 
 RLF_BattlePass_Points_Iron
+
 RLF_BattlePass_Points_Silver
+
 RLF_BattlePass_Points_Purple
+
 RLF_BattlePass_Points_Green
+
 RLF_BattlePass_Points_Red
+
 RLF_BattlePass_Points_Blue
 
 ---
