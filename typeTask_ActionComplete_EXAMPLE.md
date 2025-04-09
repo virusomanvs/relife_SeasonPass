@@ -11,7 +11,7 @@
 | `taskParamNumber`      | `float array`   | Сколько раз нужно выполнить действие для того чтобы задание засчиталось. |
 
 ---
-### 1. Добавить основной конфиг задания в config_TasksList.json. Описание параметров смотрите в [config_TasksList.json](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_TasksList.md)
+### 1. Добавить основной конфиг задания в config_TasksList.json. Описание параметров смотрите в [config_TasksList.json](https://github.com/virusomanvs/relife_SeasonPass/blob/main/TASKS.md)
 
 ```json
 {
