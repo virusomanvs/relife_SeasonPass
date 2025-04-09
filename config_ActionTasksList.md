@@ -23,7 +23,9 @@
 {
     "taskID": 42,
     "actionName": "ActionDigWorms",
-    "needItemInHands": []
+    "needItemInHands": [
+        "Shovel"
+    ]
 }
 ```
 
