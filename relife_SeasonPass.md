@@ -28,10 +28,10 @@
 | `openURL`          | `string`  | Ссылка при нажатии |
 ```JSON
 {
-            "titleButton": "Discord",
-            "iconButton": "relife_SeasonPass/images/discrod.edds",
-            "openURL": "site.kz"
-        }
+    "titleButton": "YouTube",
+    "iconButton": "relife_SeasonPass/images/youtube.edds",
+    "openURL": "site.kz"
+}
 ```
 ## 🧩 Описание параметра HTTPRequestPremiumURL
 ### Ссылка должна получать GET запрос в виде GUID игрока https://yoursite.kz/getpremium.php?guid=GUID_PLAYER и должна возвращать структуру JSON формата ниже:
