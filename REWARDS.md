@@ -23,7 +23,7 @@
 ---
 ## [**DayZ-Expansion-Hardline**](https://steamcommunity.com/sharedfiles/filedetails/?id=2828487396)
 Вы можете вместо предмета, выдать репутацию игроку. Достаточно вместо класснейма написать **HardlineReputation** и в **itemQuantity** в первом параметре указать сколько репутации выдавать игроку. Картинка награды будет подставлена автоматически.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/48f6b2b9-9107-4cf7-b9b2-03279176dbc1)
 
 ```json
 {
