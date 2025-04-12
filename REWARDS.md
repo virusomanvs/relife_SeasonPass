@@ -21,6 +21,29 @@
 ---
 ## Подробное описание конфигов https://youtu.be/dtjWS_3Bg3M
 ---
+## [**Perks & Skills System (RELIFE)**](https://steamcommunity.com/sharedfiles/filedetails/?id=3372212700)
+Вы можете вместо предмета, выдать опыт на навык игроку. Достаточно вместо класснейма написать **RELIFEPERKPOINTS_HUNTING**, где HUNTING тип начисляемого навыка, и в **itemQuantity** в первом параметре указать сколько опыта выдавать игроку. Картинка награды будет подставлена автоматически.
+![image](https://github.com/user-attachments/assets/44322495-e0be-43d2-848d-3e718728e194)
+
+```json
+{
+    "rewardUniqueID": 2001,
+    "className": "RELIFEPERKPOINTS_HUNTING",
+    "itemHealth": [1.0, -1.0, -1.0],
+    "itemQuantity": [20.0, -1.0, -1.0],
+    "itemIsMagazine": 0,
+    "attachmentItems": []
+},
+{
+    "rewardUniqueID": 2002,
+    "className": "RELIFEPERKPOINTS_MEDICAL",
+    "itemHealth": [1.0, -1.0, -1.0],
+    "itemQuantity": [35.0, -1.0, -1.0],
+    "itemIsMagazine": 0,
+    "attachmentItems": []
+}
+```
+---
 ## [**DayZ-Expansion-Hardline**](https://steamcommunity.com/sharedfiles/filedetails/?id=2828487396)
 Вы можете вместо предмета, выдать репутацию игроку. Достаточно вместо класснейма написать **HardlineReputation** и в **itemQuantity** в первом параметре указать сколько репутации выдавать игроку. Картинка награды будет подставлена автоматически.
 ![image](https://github.com/user-attachments/assets/48f6b2b9-9107-4cf7-b9b2-03279176dbc1)
@@ -35,7 +58,7 @@
     "attachmentItems": []
 }
 ```
-
+---
 ## 🧱 Общая структура объекта
 
 ```json
