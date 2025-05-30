@@ -26,12 +26,12 @@
 
 | Тип              | Описание        |  
 |-------------------|------------|
-| `[EntityKill](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_KillEntityTasksList.md)`          | Убить кого-то. Животное, зомби или игрок. |
-| `[ActionComplete](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_ActionTasksList.md)`          | Выполнить какое-то действие. |
-| `[RecipeCraft](https://github.com/virusomanvs/relife_SeasonPass/blob/main/typeTask_RecipeCraft_EXAMPLE.md)`          | Скрафтитьт какую-то вещь, через ванильные крафты. |
-| `[LocationCheck](https://github.com/virusomanvs/relife_SeasonPass/blob/main/typeTask_LocationCheck_EXAMPLE.md)`          | Посетить определененые места |
-| `FishingTask`          | Поймать какую-то рыбу. |
-| `[JustActive](https://github.com/virusomanvs/relife_SeasonPass/blob/main/typeTask_JustActive_EXAMPLE.md)`          | Убить кого-то. Животное, зомби или игрок. |
+| [EntityKill](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_KillEntityTasksList.md)          | Убить кого-то. Животное, зомби или игрок. |
+| [ActionComplete](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_ActionTasksList.md)         | Выполнить какое-то действие. |
+| [RecipeCraft](https://github.com/virusomanvs/relife_SeasonPass/blob/main/typeTask_RecipeCraft_EXAMPLE.md)          | Скрафтитьт какую-то вещь, через ванильные крафты. |
+| [LocationCheck](https://github.com/virusomanvs/relife_SeasonPass/blob/main/typeTask_LocationCheck_EXAMPLE.md)          | Посетить определененые места |
+| FishingTask          | Поймать какую-то рыбу. |
+| [JustActive](https://github.com/virusomanvs/relife_SeasonPass/blob/main/typeTask_JustActive_EXAMPLE.md)          | Убить кого-то. Животное, зомби или игрок. |
 
 ## 🧱 Общая структура объекта
 
