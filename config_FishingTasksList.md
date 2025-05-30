@@ -36,7 +36,7 @@
     "placePositionsRadius": []
 },
 {
-    "taskID": 754,
+    "taskID": 755,
     "fishingRod": [
         "CustomFish"
     ],
