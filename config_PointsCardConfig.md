@@ -20,6 +20,7 @@
 | `RLF_BattlePass_Points_Iron`          | `string`  | Класснейм карточки либо любого предмета у которого есть действие ActionActivateSeasonCard |
 | `givedPoints`          | `integer`  | Сколько опыта даст карточка при использовании. Если выключена isLevelUpgrade. |
 | `isLevelUpgrade`          | `bool`  | Включить если карточка для добавления уровня или улучшения до уровня. |
+| `delayToNextUse`          | `int`  | Время в минутах для повторной активации карты. Если 0 можно будет постоянно использовать карту, если какое-то число, то через столько минут после последней активации игрок сможет активировать карту. |
 | `upgradeLevel`      | `int`   | Если первый параметр не -1, то при использовании сезонный пропуск будет апгрейднуть до уровня который указан. Если второй параметр не -1, то будет добавлено указанное кол-во уровней к тому который сейчас есть у игрока.  |
 
 ---
@@ -33,6 +34,7 @@
     "RLF_BattlePass_Points_Iron": {
         "givedPoints": 100,
         "isLevelUpgrade": 0,
+        "delayToNextUse": 0,
         "upgradeLevel": [
             2,
             -1
@@ -41,6 +43,7 @@
     "RLF_BattlePass_Points_Silver": {
         "givedPoints": 100,
         "isLevelUpgrade": 1,
+        "delayToNextUse": 0,
         "upgradeLevel": [
             2,
             -1
@@ -49,6 +52,7 @@
     "RLF_BattlePass_Points_Purple": {
         "givedPoints": 100,
         "isLevelUpgrade": 1,
+        "delayToNextUse": 0,
         "upgradeLevel": [
             -1,
             3
