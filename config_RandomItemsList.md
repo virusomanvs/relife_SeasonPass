@@ -12,6 +12,7 @@
 | `randomItemsUniqueID`  | `integer`  | Уникальный идентификатор случайной награды, который не может повторяться! В конфиге уровней, вы указываете ID со занком минус в начале, -2, -255 и так далее. Здесь знак минус не нужен. Указывайте 2, 255 и так далее. |
 | `randomItemsName`      | `string`   | Имя награды при наведении |
 | `previewImage`      | `string`   |Картинка награды в формате 256x256. Вы можете указать ящики от 1 до 10 пример ящиков ниже, либо указать свою. relife_SeasonPass/images/box_images/10.edds|
+| `rarityColor`      | `string hexstring` |Цвет награды в соотвествии с шансом. **0.1-0.2** Это диапазон шанса предмета для которого будет этот цвет. Значения имеют включающий параметр, то есть если указано 0.1-0.2 то от 0.1 включая 0.1 и до 0.2 включая 0.2. **0x78EB4B4B** это цвет в формате HEX с прозрачностью **0x78** это прозрачность, **EB4B4B** это цвет в формате HEX.|
 | `itemsIDList`  | `integer, float`  | ID предметов из [списка](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_ItemsList.md) наград, которые могут выпасть, а также их шанс от 0 до 1, среди общего списка. |
 
 ![image](https://github.com/user-attachments/assets/89e0c7ca-eebc-436f-a658-f4a5f01742cf)
@@ -27,6 +28,13 @@
     "randomItemsUniqueID": 1,
     "randomItemsName": "Случайная вещь [Деревянный кейс]",
     "previewImage": "relife_SeasonPass/images/box_images/2.edds",
+    "rarityColor": {
+        "0.1-0.2": "0x78EB4B4B",
+        "0.3-0.4": "0x78D32CE6",
+        "0.5-0.6": "0x788847FF",
+        "0.7-0.8": "0x784B69FF",
+        "0.9-1.0": "0x785E98D9"
+    },
     "itemsIDList": {
         "1": 0.1,
         "2": 0.2,
