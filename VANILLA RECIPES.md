@@ -1,121 +1,123 @@
 | Класс              | Название в игре |
 |-------------------|------------|
 |CraftTorch | Сделать факел|
-|CraftFireplace | Сделать набор для костра|
-|CraftLongTorch | Сделать факел|
-|SharpenBroom | Заточить|
-|SharpenLongStick | Заточить|
-|PokeHolesBarrel | Сделать бочку для костра|
-|CraftBaseBallBatNailed | Сделать биту с гвоздями|
-|CraftBaseBallBatBarbed | Сделать бейсбольную биту с проволокой|
-|CraftGhillieHood | Сделать маскировочный капюшон|
-|DeCraftGhillieHood | Разобрать|
-|CraftGhillieAttachment | Сделать маскировочный камуфляж для винтовки|
-|DeCraftGhillieAttachment | Разобрать|
-|CraftGhillieBushrag | Сделать маскировочный халат|
-|DeCraftGhillieBushrag | Разобрать|
-|CraftGhillieTop | Сделать маскировочный плащ|
-|DeCraftGhillieTop | Разобрать|
-|CraftGhillieSuit | Сделать маскировочный костюм|
-|DeCraftGhillieSuit | Разобрать|
-|CraftStoneKnife | Сделать каменный нож|
-|CraftRagRope | Сделать веревку|
-|CraftSuppressor | Сделать глушитель из пластиковой бутылки|
-|CleanWeapon | Чинить|
-|RepairWithTape | Чинить|
-|CraftBoneKnife | Сделать костяной нож|
-|CraftBoneHook | Сделать самодельный крючок|
-|CraftWoodenHook | Сделать самодельный крючок|
-|CraftBurlapStrips | Сделать полоски мешковины|
-|CraftLeatherCourierBag | Сделать меховой мешок|
-|CraftCourierBag | Сделать сумку из мешочной ткани|
-|CraftImprovisedBag | Сделать джутовый рюкзак|
-|CraftImprovisedLeatherBag | Сделать меховой рюкзак|
-|CraftImprovisedExplosive | Сделать самодельную взрывчатку|
-|CraftLeatherSack | Сделать кожаный мешок|
-|DeCraftLeatherCourierBag | Разобрать|
-|DeCraftCourierBag | Разобрать|
-|DeCraftImprovisedBag | Разобрать|
-|DeCraftImprovisedLeatherBag | Разобрать|
-|DeCraftLeatherSack | Разорвать|
-|SplitLongWoodenStick | Разделить|
-|SplitBroom | Разделить|
-|SplitFirewood | Разделить|
-|CraftSplint | Сделать шину|
-|DeCraftSplint | Разобрать|
-|CraftHandDrillKit | Сделать набор для разведения костра|
-|CraftSpearBone | Сделать самодельное копье|
-|CraftSpearStone | Сделать самодельное копье|
-|DeCraftHandDrillKit | Разобрать|
-|DeCraftSpear | Разобрать|
-|PatchItem | Залатать|
-|CutOutZucchiniSeeds | Вырезать семена|
-|CutOutPepperSeeds | Вырезать семена|
-|CutOutPumpkinSeeds | Приготовить|
-|CutOutTomatoSeeds | Вырезать семена|
-|PeelPotato | Чистить картошку|
-|OpenCan | Открыть банку|
-|CraftSalineBagIV | Сделать комплект физраствора|
-|PurifyWater | Очистить|
-|ChelateWater | Хелатировать воду|
-|CraftBloodBagIV | Сделать полный комплект крови|
-|DeCraftCamoNetShelter | Разобрать|
-|FuelChainsaw | Заправить|
-|CraftTripWire | Сделать растяжку|
-|CraftRabbitSnare | Сделать силок|
-|DeCraftSnareTrap | Разобрать|
-|DeCraftTripWire | Разобрать|
-|DisinfectItem | Дезинфицировать|
-|FillSyringe | Заполнить|
-|BloodTest | Сделать анализ своей крови|
-|SharpenMelee | Заточить|
-|RepairEpoxy | Чинить|
-|RepairWithPliers | Чинить|
-|CraftArmbandRaincoat | Сделать нарукавную повязку|
-|RepairElectric | Чинить|
-|ExtinguishTorch | Потушить|
-|AttachHolsterPouch | STR_AttachHolsterPouch0|
-|AttachPouchesHolster | STR_AttachPouchesHolster0|
-|SawoffShotgunIzh43 | Обрезать ствол|
-|SawoffMosin | Обрезать ствол|
-|SawOffIzh18 | Обрезать ствол|
-|SawOffIzh18Shotgun | Обрезать ствол|
-|SawoffFAMAS | Обрезать рукоять|
-|SawOffMagnum | Обрезать ствол|
-|SawOFFB95 | Обрезать ствол|
-|CraftArmbandRag | Сделать нарукавную повязку|
-|CraftRag | Сделать тряпки|
-|CraftFeathers | Сделать перья|
-|CraftGutsRope | Сделать веревку|
-|SplitStones | Разделить|
-|UpgradeTorchWithLard | Заправить жиром|
-|UpgradeTorchWithLiquidFuel | Пропитать факел топливом|
-|CraftFenceKit | Сделать набор для забора|
-|CraftWatchtowerKit | Сделать набор для сторожевой башни|
-|CraftWoodenPlank | Сделать деревянную доску|
-|SawWoodenLog | Сделать дрова|
-|CraftWoodenCrate | Сделать Деревянный ящик|
-|CraftFishingRod | Сделать самодельную удочку|
-|DeCraftFishingRod | Разобрать|
-|DeCraftWoodenCrate | Разобрать|
-|CraftTerritoryFlagKit | Сделать набор для флагштока|
-|CraftTannedLeather | Дубить кожу|
-|CraftShelterKit | Сделать набор для разметки укрытия|
-|CraftTruck01DoubleWheel | Объединить колеса|
-|DeCraftTruck01DoubleWheel | Разделить колеса|
-|CraftFishNetTrap | Сделать ловушку для рыбы|
-|DeCraftFishNetTrap | Разобрать|
-|CraftSmallFishTrap | Сделать ловушку для рыбы из пластиковой бутылки|
-|CraftMetalWire | Сделать металлическую проволоку|
-|CraftGasMask_Filter_Improvised | Сделать самодельный фильтр противогаза|
-|FillGasMask_Filter | Заправить фильтр|
-|CraftCookingStand | Сделать стойку для костра|
-|DeCraftCookingStand | Разобрать|
-|CraftArmbandFlag | Сделать нарукавную повязку|
-|DeCraftDetonator | Разобрать|
-|RepairPlanks | Чинить|
-|CraftWitchHoodCoif | Сделать бронированный капюшон|
-|CraftDrysackBag | Сделать гермомешок|
-|OpenScientificBriefcase | Отпереть чемоданчик|
-|CloseScientificBriefcase | Запереть чемоданчик|
-|CraftWhetstone | Сделать точильный камень|
+|CraftFireplace | Сделать набор для костра||CraftTorch | Сделать факел (Оружие ближнего боя, освещение)|
+|CraftFireplace | Сделать набор для костра (Разведение огня)|
+|CraftLongTorch | Сделать факел (Оружие ближнего боя, освещение)|
+|SharpenBroom | Заточить (Метла как оружие)|
+|SharpenLongStick | Заточить (Острый кол для оружия или ловушки)|
+|PokeHolesBarrel | Сделать бочку для костра (Костровая бочка)|
+|CraftBaseBallBatNailed | Сделать биту с гвоздями (Оружие ближнего боя)|
+|CraftBaseBallBatBarbed | Сделать бейсбольную биту с проволокой (Оружие ближнего боя)|
+|CraftGhillieHood | Сделать маскировочный капюшон (Камуфляж)|
+|DeCraftGhillieHood | Разобрать (Камуфляж)|
+|CraftGhillieAttachment | Сделать камуфляж для винтовки (Оружейный камуфляж)|
+|DeCraftGhillieAttachment | Разобрать (Оружейный камуфляж)|
+|CraftGhillieBushrag | Сделать маскировочный халат (Камуфляж)|
+|DeCraftGhillieBushrag | Разобрать (Камуфляж)|
+|CraftGhillieTop | Сделать маскировочный плащ (Камуфляж)|
+|DeCraftGhillieTop | Разобрать (Камуфляж)|
+|CraftGhillieSuit | Сделать маскировочный костюм (Камуфляж)|
+|DeCraftGhillieSuit | Разобрать (Камуфляж)|
+|CraftStoneKnife | Сделать каменный нож (Оружие / инструмент)|
+|CraftRagRope | Сделать веревку (Из тряпок)|
+|CraftSuppressor | Сделать глушитель (Из бутылки, для оружия)|
+|CleanWeapon | Чинить (Оружие)|
+|RepairWithTape | Чинить (Любые предметы, скотчем)|
+|CraftBoneKnife | Сделать костяной нож (Оружие / инструмент)|
+|CraftBoneHook | Сделать самодельный крючок (Для рыбалки)|
+|CraftWoodenHook | Сделать самодельный крючок (Для рыбалки)|
+|CraftBurlapStrips | Сделать полоски мешковины (Материал)|
+|CraftLeatherCourierBag | Сделать меховой мешок (Инвентарь)|
+|CraftCourierBag | Сделать сумку из мешковины (Инвентарь)|
+|CraftImprovisedBag | Сделать джутовый рюкзак (Инвентарь)|
+|CraftImprovisedLeatherBag | Сделать меховой рюкзак (Инвентарь)|
+|CraftImprovisedExplosive | Сделать самодельную взрывчатку (Взрывное устройство)|
+|CraftLeatherSack | Сделать кожаный мешок (Инвентарь)|
+|DeCraftLeatherCourierBag | Разобрать (Мешок)|
+|DeCraftCourierBag | Разобрать (Сумка)|
+|DeCraftImprovisedBag | Разобрать (Рюкзак)|
+|DeCraftImprovisedLeatherBag | Разобрать (Рюкзак)|
+|DeCraftLeatherSack | Разорвать (Мешок)|
+|SplitLongWoodenStick | Разделить (На части)|
+|SplitBroom | Разделить (На части)|
+|SplitFirewood | Разделить (На поленья)|
+|CraftSplint | Сделать шину (Медицинский предмет)|
+|DeCraftSplint | Разобрать (Медицинский предмет)|
+|CraftHandDrillKit | Сделать набор для разведения костра (Разжигание огня)|
+|CraftSpearBone | Сделать самодельное копье (Оружие ближнего боя)|
+|CraftSpearStone | Сделать самодельное копье (Оружие ближнего боя)|
+|DeCraftHandDrillKit | Разобрать (Набор для костра)|
+|DeCraftSpear | Разобрать (Копье)|
+|PatchItem | Залатать (Одежда / предмет)|
+|CutOutZucchiniSeeds | Вырезать семена (Из кабачка)|
+|CutOutPepperSeeds | Вырезать семена (Из перца)|
+|CutOutPumpkinSeeds | Приготовить (Тыквенные семена)|
+|CutOutTomatoSeeds | Вырезать семена (Из помидора)|
+|PeelPotato | Чистить картошку (Готовка)|
+|OpenCan | Открыть банку (Консервы)|
+|CraftSalineBagIV | Сделать комплект физраствора (Медицинский предмет)|
+|PurifyWater | Очистить (Воду)|
+|ChelateWater | Хелатировать воду (Очистка)|
+|CraftBloodBagIV | Сделать комплект крови (Медицинский предмет)|
+|DeCraftCamoNetShelter | Разобрать (Укрытие из масксети)|
+|FuelChainsaw | Заправить (Бензопила)|
+|CraftTripWire | Сделать растяжку (Ловушка)|
+|CraftRabbitSnare | Сделать силок (Ловушка на кролика)|
+|DeCraftSnareTrap | Разобрать (Силок)|
+|DeCraftTripWire | Разобрать (Растяжка)|
+|DisinfectItem | Дезинфицировать (Одежду / предмет)|
+|FillSyringe | Заполнить (Шприц)|
+|BloodTest | Сделать анализ своей крови (Медицинская проверка)|
+|SharpenMelee | Заточить (Оружие ближнего боя)|
+|RepairEpoxy | Чинить (Смолой, например прицелы)|
+|RepairWithPliers | Чинить (Механические предметы)|
+|CraftArmbandRaincoat | Сделать нарукавную повязку (Из дождевика)|
+|RepairElectric | Чинить (Электрооборудование)|
+|ExtinguishTorch | Потушить (Факел)|
+|AttachHolsterPouch | Прикрепить (Подсумок к кобуре)|
+|AttachPouchesHolster | Прикрепить (Подсумки к разгрузке)|
+|SawoffShotgunIzh43 | Обрезать ствол (Оружие)|
+|SawoffMosin | Обрезать ствол (Оружие)|
+|SawOffIzh18 | Обрезать ствол (Оружие)|
+|SawOffIzh18Shotgun | Обрезать ствол (Оружие)|
+|SawoffFAMAS | Обрезать рукоять (Оружие)|
+|SawOffMagnum | Обрезать ствол (Оружие)|
+|SawOFFB95 | Обрезать ствол (Оружие)|
+|CraftArmbandRag | Сделать нарукавную повязку (Из тряпки)|
+|CraftRag | Сделать тряпки (Материал / медицина)|
+|CraftFeathers | Сделать перья (Для стрел / декора)|
+|CraftGutsRope | Сделать веревку (Из кишок)|
+|SplitStones | Разделить (Камни)|
+|UpgradeTorchWithLard | Заправить жиром (Факел)|
+|UpgradeTorchWithLiquidFuel | Пропитать топливом (Факел)|
+|CraftFenceKit | Сделать набор для забора (Строительство)|
+|CraftWatchtowerKit | Сделать набор для сторожевой башни (Строительство)|
+|CraftWoodenPlank | Сделать доску (Строительство)|
+|SawWoodenLog | Сделать дрова (Из бревна)|
+|CraftWoodenCrate | Сделать деревянный ящик (Хранение)|
+|CraftFishingRod | Сделать удочку (Рыбалка)|
+|DeCraftFishingRod | Разобрать (Удочку)|
+|DeCraftWoodenCrate | Разобрать (Ящик)|
+|CraftTerritoryFlagKit | Сделать набор для флага (Территория)|
+|CraftTannedLeather | Дубить кожу (Материал)|
+|CraftShelterKit | Сделать набор для укрытия (Строительство)|
+|CraftTruck01DoubleWheel | Объединить колеса (Для грузовика)|
+|DeCraftTruck01DoubleWheel | Разделить колеса (Грузовик)|
+|CraftFishNetTrap | Сделать ловушку для рыбы (Из сетки)|
+|DeCraftFishNetTrap | Разобрать (Рыболовная ловушка)|
+|CraftSmallFishTrap | Сделать ловушку из бутылки (Рыбалка)|
+|CraftMetalWire | Сделать металлическую проволоку (Материал)|
+|CraftGasMask_Filter_Improvised | Сделать фильтр (Для противогаза)|
+|FillGasMask_Filter | Заправить фильтр (Противогаз)|
+|CraftCookingStand | Сделать стойку (Для готовки)|
+|DeCraftCookingStand | Разобрать (Кухонная стойка)|
+|CraftArmbandFlag | Сделать нарукавную повязку (С флагом)|
+|DeCraftDetonator | Разобрать (Детонатор)|
+|RepairPlanks | Чинить (Деревянные элементы)|
+|CraftWitchHoodCoif | Сделать бронированный капюшон (Броня)|
+|CraftDrysackBag | Сделать гермомешок (Инвентарь)|
+|OpenScientificBriefcase | Отпереть чемоданчик (Лут)|
+|CloseScientificBriefcase | Запереть чемоданчик (Лут)|
+|CraftWhetstone | Сделать точильный камень (Инструмент)|
+
