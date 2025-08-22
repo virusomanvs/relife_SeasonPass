@@ -14,6 +14,9 @@
 | `taskID`          | `integer`  | Уникальный идентификатор задания |
 | `givePoints`      | `int`   | Количество опыта которое будет выданов с случае выполнения задания|
 | `givePointsPremium`      | `int`   | Количество дополнительного опыта, если у игрока есть премиум|
+| `disableBoostBonus`      | `bool`   | Отключает дополнительный опыт при выполнении задания если у игрока есть буст|
+| `boostBonusPoints`      | `int`   | Переопределяет бонус вместо процента от буста, на определенное число|
+| `allowChangeAfterComplete`      | `bool`   | Разрешает менять задание даже если оно уже завершено.|
 | `typeTask`      | `string`   | Тип задания из списка, необходимо указать для определения дополнительных конфигов. Типы заданий написаны ниже и описание их. |
 | `iconTask`      | `string`   | Полный путь к картинке в формате *.edds который будет показан в плашке заданий|
 | `titleTask`      | `string`   | Название задания|
@@ -41,6 +44,10 @@
 {
     "taskID": 1,
     "givePoints": 40,
+    "disableBoostBonus": 0,
+    "givePointsPremium": 0,
+    "boostBonusPoints": 0,
+    "allowChangeAfterComplete": 0,
     "typeTask": "EntityKill",
     "iconTask": "relife_SeasonPass/images/reward_empty.edds",
     "titleTask": "Говядина по-домашнему",
