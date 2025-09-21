@@ -35,7 +35,7 @@
 | [RecipeCraft](https://github.com/virusomanvs/relife_SeasonPass/blob/main/typeTask_RecipeCraft_EXAMPLE.md)          | Скрафтить какую-то вещь, через ванильные крафты или через верстак |
 | [LocationCheck](https://github.com/virusomanvs/relife_SeasonPass/blob/main/typeTask_LocationCheck_EXAMPLE.md)          | Посетить определененые места |
 | [FishingTask](https://github.com/virusomanvs/relife_SeasonPass/blob/main/typeTask_FishingTask_EXAMPLE.md)          | Поймать какую-то рыбу. |
-| [JustActive](https://github.com/virusomanvs/relife_SeasonPass/blob/main/typeTask_JustActive_EXAMPLE.md)          | Убить кого-то. Животное, зомби или игрок. |
+| [JustActive](https://github.com/virusomanvs/relife_SeasonPass/blob/main/typeTask_JustActive_EXAMPLE.md)          | Просто активация задания, для сторонних модов или использования в коде |
 | [CollectItems](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_CollectItemsTasksList.md)          | Собрать определенные предметы |
 
 ## 🧱 Общая структура объекта
