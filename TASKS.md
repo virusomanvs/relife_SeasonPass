@@ -37,6 +37,9 @@
 | [FishingTask](https://github.com/virusomanvs/relife_SeasonPass/blob/main/typeTask_FishingTask_EXAMPLE.md)          | Поймать какую-то рыбу. |
 | [JustActive](https://github.com/virusomanvs/relife_SeasonPass/blob/main/typeTask_JustActive_EXAMPLE.md)          | Просто активация задания, для сторонних модов или использования в коде |
 | [CollectItems](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_CollectItemsTasksList.md)          | Собрать определенные предметы |
+| [DriveTransport](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_DriveTransportList_EXAMPLE.md)          | Расстояние на автомобиле|
+| [WalkDistance](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_WalkDistanceList_EXAMPLE.md)          | Расстояние пешком |
+| [CollectItems](https://github.com/virusomanvs/relife_SeasonPass/blob/main/config_TimeInServerList_EXAMPLE.md)          | Время на сервере|
 
 ## 🧱 Общая структура объекта
 
