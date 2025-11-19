@@ -24,7 +24,7 @@
 
 
 ---
-## Подробное описание конфигов https://youtu.be/dtjWS_3Bg3M
+## Подробное описание конфигов https://youtu.be/wSWD7LFa1Do
 ---
 ## [**Perks & Skills System (RELIFE)**](https://steamcommunity.com/sharedfiles/filedetails/?id=3372212700)
 Вы можете вместо предмета, выдать опыт на навык игроку. Достаточно вместо класснейма написать **RELIFEPERKPOINTS_HUNTING**, где HUNTING тип начисляемого навыка, и в **itemQuantity** в первом параметре указать сколько опыта выдавать игроку. Картинка награды будет подставлена автоматически.
