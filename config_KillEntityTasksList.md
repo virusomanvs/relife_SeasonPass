@@ -24,16 +24,22 @@
 
 ```json
 {
-    "taskID": 1,
-    "needItemInHands": [],
-    "distanceKill": [
-        -1,
-        -1
-    ],
-    "entityNames": [
-        "Animal_BosTaurusF_Brown"
-    ]
-}
+        "taskID": 1,
+        "needItemInHands": [],
+        "distanceKill": [
+            -1,
+            -1
+        ],
+        "timeTask": [
+            0, 1, 6, 0
+        ],
+        "entityNames": [
+            "Animal_BosTaurus_Brown"
+        ],
+        "zoneNames": [
+        
+        ]
+    }
 ```
 
 ---
