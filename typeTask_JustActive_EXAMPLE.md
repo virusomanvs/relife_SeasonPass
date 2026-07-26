@@ -33,8 +33,10 @@
 
 ```C#
 ... ваш код крафта предмета на верстаке
-
-    player.AddTaskParam(this, "JustActive", "666|+");
+    TStringArray param = new TStringArray;
+    param.Insert(ID);
+    param.Insert("+");
+    player.AddTaskParam(this, "JustActive", param);
 
 ...
 ```
